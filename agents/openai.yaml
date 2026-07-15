@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fck Paper"
+  short_description: "Evidence-based brutal manuscript roasts"
+  default_prompt: "Use $fck-paper to deliver a brutally direct, evidence-based critique of this manuscript."
